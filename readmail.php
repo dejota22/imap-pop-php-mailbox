@@ -3,7 +3,7 @@
 
 
 /**
- * @see https://github.com/dejota22/php-imap
+ * @see https://github.com/dejota22/imap-pop-php-mailbox
  * @author Dyemerson almeida https://www.linkedin.com/pub/dyemerson-almeida/38/795/653
  */
 
